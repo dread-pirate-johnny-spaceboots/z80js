@@ -1,4 +1,4 @@
-import { invert, bitTest, pairity } from '../../Utils'
+import { invert, bitTest, pairity } from '../Utils'
 
 export default {
     0x2f: {

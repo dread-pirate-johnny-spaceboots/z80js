@@ -4,7 +4,7 @@ import {
     bitTest,
     setBit,
     resetBit
- } from '../../Utils'
+ } from '../Utils'
 
 export default {
     0xcb47: {

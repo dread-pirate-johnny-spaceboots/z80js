@@ -1,4 +1,4 @@
-import { twosComplement } from '../../Utils'
+import { twosComplement } from '../Utils'
 
 export default {
     0x02: {
